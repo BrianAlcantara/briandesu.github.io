@@ -1,6 +1,6 @@
 # Brian Alcantara
 
-linkedin.com/in/briandesu
+[linkedin.com/in/briandesu](https://linkedin.com/in/briandesu)
 
 
 • Soft skills to communicate regularly and collaborate with roles such as Project Managers, QA, Clinical, Marketing, Sales, Engineering, Customers, and Executive Leadership with conflict resolution abilities to negotiate and find solutions, meet goals, and deliver on schedule.
