@@ -1,4 +1,6 @@
-# briandesu.github.io
+# Brian Alcantara
+
+linkedin.com/in/briandesu
 
 • 10 years manufacturing experience in a fast-paced customer-facing environment to increase commercial revenue and sales. 5 years of customer-facing management of engineered medical product accounts.
 
