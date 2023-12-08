@@ -2,6 +2,8 @@
 
 [linkedin.com/in/briandesu](https://linkedin.com/in/briandesu)
 
+_Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can process Japan Visa via Spouse of a Japanese National._
+
 
 • Soft skills to communicate regularly and collaborate with roles such as Project Managers, QA, Clinical, Marketing, Sales, Engineering, Customers, and Executive Leadership with conflict resolution abilities to negotiate and find solutions, meet goals, and deliver on schedule.
 
@@ -19,3 +21,6 @@
 
 
 • **Product Owner** using Agile Scrum framework providing approval for sprints related to the Salesforce migration team transitioning from Microsoft Dynamics to Salesforce.
+
+
+• 5 Years work experience in Japan. 日本語能力試験N2結果待ち。
