@@ -16,3 +16,6 @@
 
 
 • 10 years manufacturing experience in a fast-paced customer-facing environment to increase commercial revenue and sales. 5 years of customer-facing management of engineered medical product accounts.
+
+
+• **Product Owner** using Agile Scrum framework providing approval for sprints related to the Salesforce migration team transitioning from Microsoft Dynamics to Salesforce.
