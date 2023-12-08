@@ -26,15 +26,15 @@ _Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can
 • 5 Years work experience in Japan. 2023年12月日本語能力試験N2結果待ち。
 
 
-Key Competencies:
+## Key Competencies:
 
-_Sales Operations
-Account Management
-Process Improvement
-CRM Administration
-Agile Scrum Framework
-Project Management
-Cross-Functional Collaboration
-Global Manufacturing Strategy
-Customer Relationship Management
-Data Analysis and Reporting_
+Sales Operations<br /> 
+Account Management<br /> 
+Process Improvement<br /> 
+CRM Administration<br /> 
+Agile Scrum Framework<br /> 
+Project Management<br /> 
+Cross-Functional Collaboration<br /> 
+Global Manufacturing Strategy<br /> 
+Customer Relationship Management<br /> 
+Data Analysis and Reporting<br /> 
