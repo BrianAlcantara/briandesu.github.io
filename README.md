@@ -5,7 +5,7 @@
 _Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can process Japan Visa via Spouse of a Japanese National._
 
 
-• Soft skills to communicate regularly and collaborate with roles such as Project Managers, QA, Clinical, Marketing, Sales, Engineering, Customers, and Executive Leadership with conflict resolution abilities to negotiate and find solutions, meet goals, and deliver on schedule.
+• Soft skills to regularly communicate and collaborate with roles such as Project Managers, QA, Clinical, Marketing, Sales, Engineering, Customers, and Executive Leadership with conflict resolution abilities to negotiate and find solutions, meet goals, and deliver on schedule.
 
 
 • 10 years experience in global manufacturing companies regularly meeting about strategy and long- term market circumstances to position new products or analyze for future development.
