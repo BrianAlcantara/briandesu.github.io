@@ -33,7 +33,7 @@ Data Analysis and Reporting<br />
 Business Intelligence<br />
 Visualizations<br />
 Tableau Dashboards<br />
-Reports<br />
+Reports and Insights<br />
 Presentations<br /> 
 Account Management<br /> 
 Process Improvement<br /> 
