@@ -29,6 +29,11 @@ _Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can
 ## Key Competencies:
 
 Sales Operations<br /> 
+Data Analysis and Reporting<br /> 
+Business Intelligence<br />
+Visualizations<br />
+Tableau Dashboards<br />
+Reports<br />
 Account Management<br /> 
 Process Improvement<br /> 
 CRM Administration<br /> 
@@ -37,4 +42,4 @@ Project Management<br />
 Cross-Functional Collaboration<br /> 
 Global Manufacturing Strategy<br /> 
 Customer Relationship Management<br /> 
-Data Analysis and Reporting<br /> 
+
