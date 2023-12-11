@@ -34,6 +34,7 @@ Business Intelligence<br />
 Visualizations<br />
 Tableau Dashboards<br />
 Reports<br />
+Presentations<br /> 
 Account Management<br /> 
 Process Improvement<br /> 
 CRM Administration<br /> 
@@ -42,4 +43,5 @@ Project Management<br />
 Cross-Functional Collaboration<br /> 
 Global Manufacturing Strategy<br /> 
 Customer Relationship Management<br /> 
+Cross functional collaboration with other departments<br /> 
 
