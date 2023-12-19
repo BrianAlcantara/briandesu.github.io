@@ -11,7 +11,10 @@ _Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can
 • 10 years experience in global manufacturing companies regularly meeting about strategy and long- term market circumstances to position new products or analyze for future development.
 
 
-• Lifelong learner of technology and software including, **Tableau, Microsoft Project, Power BI, Excel, Dynamics, SQL queries, LeanKit, and Salesforce Admin Certified**, Salesforce user for 8 years.
+• Lifelong learner of technology and software including, **Tableau, Microsoft Project, Power BI, Excel, Dynamics CRM, SQL queries, LeanKit, and Salesforce Admin Certified**, Salesforce user for 8 years.
+
+
+• Extensive experience in various ERP systems including Microsoft Dynamics ERP, AS400, as well as multiple internal company developed proprietary systems.
 
 
 • Changed 6-year status quo sales process to streamline practices and identify continuous improvement processes in CRM.
